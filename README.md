@@ -1,16 +1,22 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**Victoreduardo198/Victoreduardo198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Victor Eduardo mecca batista
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando na [alura] (https://alura.br.gov.br)
+- tenho 15 anos
+- estou estudando tecnologia e administração
+
+  ### você pode entrar em contato cmg no e-mail
+
+  vitinmecca@gmail.com
+
+  @vyx.vitinn
+
+
+![](https://tenor.com/fZEZRqOV2f6.gif)
+  
+  
+
+
+  
