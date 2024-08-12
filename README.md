@@ -13,7 +13,7 @@ Meu nome é Victor Eduardo mecca batista
 
   @vyx.vitinn
   
-![](https://tenor.com/fZEZRqOV2f6.gif)
+![](https://tenor.com/ILvy.gif)
   
   
 
